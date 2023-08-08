@@ -2,6 +2,129 @@
     "competishunUsers":[],
     "users":[],
     "fav":[],
-    "watch":[]
+    "watch":[],
+    "hotels":[
+        {
+            "id":"c1",
+            "location":"Chennai",
+            "image":"https://images.trvl-media.com/lodging/1000000/910000/905000/904967/2932302e.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "description":"Pool and Hot Tub available",
+            "name":"The Park Chennai",
+            "discount":"₹77000",
+            "price":69234,
+            "ratings":3.1
+          },
+          {
+            "id":"c2",
+            "location":"Chennai",
+            "image":"https://images.trvl-media.com/lodging/21000000/20400000/20392300/20392248/b53065d3.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "name":"Novotel Chennai Chamiers Road Hotel",
+            "description":"Pool available",
+            "discount":"₹89000",
+            "price":78673,
+            "ratings":4.2
+          },
+          {
+            "id":"c3",
+            "location":"Chennai",
+            "image":"https://images.trvl-media.com/lodging/84000000/83130000/83127300/83127212/d0a900d3.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "name":"Essentia Premier Hotel Chennai",
+            "description":"",
+            "discount":"₹67000",
+            "price":43345,
+            "ratings":2.5
+          },
+          {
+            "id":"c4",
+            "location":"Chennai",
+            "image":"https://images.trvl-media.com/lodging/6000000/5100000/5098500/5098424/9d874368.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "name":"Park Hyatt Chennai",
+            "description":"Happy Hours and more at Park Hyatt, Daily Buffet Breakfast,Two Pieces of Ironing Daily,WIFI and Happy Hours from 5PM TO 8PM -One Plus offer on Beer and IMFL.",
+            "discount":"₹26000",
+            "price":14811,
+            "ratings":4.6
+          },
+          {
+            "location":"Delhi",
+            "id":"d1",
+            "image":"https://images.trvl-media.com/hotels/5000000/4810000/4804200/4804148/29666e5d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"The Park Delhi",
+            "description":"Pool and Hot Tub available",
+            "discount":"₹78900",
+            "price":69000,
+            "ratings":3.1
+          },
+          {
+            "location":"Delhi",
+            "id":"d2",
+            "image":"https://images.trvl-media.com/hotels/88000000/87680000/87676800/87676708/5d211aad.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"Hilton Delhi",
+            "description":"Stay in a Comfortable and Smart hotel,Coveniently located, Relaxing stay in spacious rooms.Unwind around the infinity pool, and explore the hotel's five Restaurants.",
+            "discount":"₹17400",
+            "price":13067,
+            "ratings":4.4
+          },
+          {
+            "location":"Delhi",
+            "id":"d3",
+            "image":"https://images.trvl-media.com/hotels/2000000/1530000/1528800/1528788/64515cdf.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"The Metropolitan Hotel and Spa  Delhi",
+            "description":"Happy Hours and more at Park Hyatt, Daily Buffet Breakfast,Two Pieces of Ironing Daily,WIFI and Happy Hours from 5PM TO 8PM -One Plus offer on Beer and IMFL.",
+            "discount":"₹18000",
+            "price":14800,
+            "ratings":4.6
+          },
+          {
+            "location":"Delhi",
+            "id":"d4",
+            "image":"https://images.trvl-media.com/hotels/88000000/87680000/87676800/87676708/5d211aad.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"Hilton Delhi",
+            "description":"Stay in a Comfortable and Smart hotel,Coveniently located, Relaxing stay in spacious rooms.Unwind around the infinity pool, and explore the hotel's five Restaurants.",
+            "discount":"₹17400",
+            "price":13067,
+            "ratings":4.4
+          },
+          {
+            "location":"Mumbai",
+            "id":"m1",
+            "image":"https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/1ac59945.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+            "name":"Taj Mahal Tower Mumbai",
+            "description":"Popular amenities:- Free WiFi,Air conditioning,Spa,Pool,Laundry,Parking included",
+            "discount":"₹29000",
+            "price":17795,
+            "ratings":4.8
+          },
+          {
+            "location":"Mumbai",
+            "id":"m2",
+            "image":"https://images.trvl-media.com/hotels/6000000/5310000/5301700/5301691/796fe3c1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+            "name":"The St. Regis Mumbai",
+            "description":"Popular amenities:- Free WiFi,Air conditioning,Spa,Pool,Laundry,Parking included",
+            "discount":"₹36000",
+            "price":24016,
+            "ratings":4.6
+          },
+          {
+            "location":"Mumbai",
+            "id":"m3",
+            "image":"https://images.trvl-media.com/hotels/1000000/10000/4800/4772/b3d8a21b.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "name":"The Oberoi Mumbai",
+            "description":"Popular amenities:- Free WiFi,Air conditioning,Spa,Pool,Laundry,Parking included",
+            "discount":"₹32480",
+            "price":22620,
+            "ratings":4.8
+          },
+          {
+            "location":"Mumbai",
+            "id":"m4",
+            "image":"https://images.trvl-media.com/hotels/70000000/69750000/69749000/69748910/a572e188.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+            "name":"Lemon Tree Hotel Kalina Mumbai",
+            "description":"Popular amenities:- Free WiFi,Pool,Housekeeping,24/7 front desk",
+            "discount":"₹28340",
+            "price":11186,
+            "ratings":2.9
+          }
+          
+    ]
 }
 
